@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *
  */
-package net.darkkatroms.weather;
+package net.vrtoxin.weather;
 
 import android.content.Context;
 import android.content.SharedPreferences;
